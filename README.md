@@ -7,3 +7,5 @@
 #They can ask for the average ratings of available books or a recommendation of books based off of similar ratings with other users
 
 #The program will continue to ask for an input until the user types quit
+
+#Licensing #Apache License 2.0
